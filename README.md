@@ -1,3 +1,11 @@
+<h1 align="center"><b>🍿 OTT POSTER BOT 🍿</b></h1>
+
+<p align="center">
+  <img src="https://files.catbox.moe/3ec9vr.jpg" alt="DVITTAL OTT POSTER BOT..Logo">
+</p>
+
+<h1 align="center">DVITTAL-OTT-POSTER-BOT</h1>
+
 Powerful telegram bot that scrape Posters from multiple OTT platforms & Bypass direct download links from cloud sites.
 
 ## Supported Platforms
