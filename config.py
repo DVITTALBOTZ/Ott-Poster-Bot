@@ -9,7 +9,7 @@ class Config:
     API_HASH = os.environ.get("API_HASH", "")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
-    DATABASE_NAME = os.environ.get("DATABASE_NAME", "ebotz")
+    DATABASE_NAME = os.environ.get("DATABASE_NAME", "@DVITTALBOTZ")
     OWNER_ID = int(os.environ.get("OWNER_ID", 0))
     SUDO_USERS = (
         list(map(int, os.environ.get("SUDO_USERS", "").split()))
@@ -33,7 +33,7 @@ class Config:
     # TMDB Token is optional bot will use third party proxy (https://tmdbapi.the-zake.workers.dev) if u don't want to set TMDB token 
     TMDB_ACCESS_TOKEN = os.environ.get("TMDB_ACCESS_TOKEN", "")
     
-    UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/XalFH/Poster-Scraper-Bot")
+    UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "https://github.com/DVITTALBOTZ/Ott-Poster-Bot.git")
     UPSTREAM_BRANCH = os.environ.get("UPSTREAM_BRANCH", "main")
 
     OTT_TEMPLATE = """
@@ -110,7 +110,7 @@ class Config:
 <b>✺ Original URL:</b>
 <code>{original_url}</code>
 
-<blockquote>Bot By ➤ @NxTalks</blockquote>
+<blockquote>Bot By ➤ @DVITTALBOTZ</blockquote>
 """.strip()
 
     POSER_TEMPLATE = """
@@ -128,5 +128,5 @@ class Config:
 {posters}
 </blockquote>
 
-<blockquote>Bot By ➤ @NxTalks</blockquote>
+<blockquote>Bot By ➤ @DVITTALBOTZ</blockquote>
 """.strip()
