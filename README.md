@@ -425,4 +425,4 @@ This bot is developed strictly for **educational and research purposes only**.
 
 If you like this project, don't forget to give it a Star !
 
-**Developer:** [@PosterDLBot](https://t.me/+rurOI-O9ciozYjVl)
+**Developer:** [ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲 ](t.me/dvittalbotz?direct) 
