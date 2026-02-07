@@ -55,11 +55,11 @@ class echo(object):
 
 <b>NOTE:</b> Bot can filter results by keywords and release year.  
 '''
-    IMG = "https://i.ibb.co/ymD61smt/photo-2025-12-10-13-50-26-7582226305333067796.jpg"
+    IMG = "https://files.catbox.moe/p1yfl9.jpg"
     EFCT = 5104841245755180586 # 🔥 Fire Effect Animation, not using bcz working only in bot pm
     ST_BTN = "Repo"
-    REPO = "https://github.com/XalFH/Poster-Scraper-Bot"
+    REPO = "https://github.com/DVITTALBOTZ/Ott-Poster-Bot.git"
     UP_BTN = "Updates"
-    UPDTE = "https://t.me/EchoBotz"
+    UPDTE = "https://t.me/DVITTALBOTZ"
     SP_BTN = "Support Group"
-    SP_GR = "https://t.me/NxTalks"
+    SP_GR = "http://t.me/dvittalbotz?direct"
