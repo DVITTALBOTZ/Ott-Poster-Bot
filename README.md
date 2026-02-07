@@ -405,7 +405,9 @@ Delete broadcast messages from all users.
 
 Live bot can be found here
 
-**Bot:** [@PostersDLBot](https://t.me/+rurOI-O9ciozYjVl)
+**Bot:** [OTT Posters DL Bot](https://t.me/+9CpEZMbcsXxmNTk9)
+
+[![Telegram](https://img.shields.io/badge/JOINOTTPOSTERDEMOGROUP-26A5E4?logo=telegram&logoColor=white)](https://t.me/+9CpEZMbcsXxmNTk9)
 
 U can test all features and commands to see how it works!
 
@@ -419,7 +421,7 @@ This bot is developed strictly for **educational and research purposes only**.
 ---
 
 [![License](https://img.shields.io/github/license/DVITTALBOTZ/Ott-Poster-Bot)](https://github.com/DVITTALBOTZ/Ott-Poster-Bot/blob/dvittalbotz/LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/NxMirror)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/DVITTALBOTZ)
 
 If you like this project, don't forget to give it a Star !
 
